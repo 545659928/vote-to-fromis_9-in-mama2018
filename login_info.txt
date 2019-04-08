@@ -1,0 +1,12 @@
+twitter_id
+xxxx@gmail.com
+twitter_pw
+xxxx
+facebook_id
+xxxx@gmail.com
+facebook_pw
+xxxx
+weibo_id
+xxxx@qq.com
+weibo_pw
+xxxx
